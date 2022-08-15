@@ -12,7 +12,7 @@
 ```
 cd ~/catkin_ws/src
 
-git clone 
+git clone https://github.com/DGHarshith/Autonomous-Delivery-Bot.git
 
 cd ..
 
