@@ -16,8 +16,6 @@ git clone https://github.com/DGHarshith/Autonomous-Delivery-Bot.git
 
 cd ..
 
-git checkout ROS-PPR_v2
-
 catkin_make
 
 rosdep install --from-paths src --ignore-src -r -y
@@ -220,7 +218,5 @@ roslaunch freenect_launch freenect.launch depth_registration:=true
 
 [![Final Video](data/final.png)](https://drive.google.com/file/d/1WlGlnpkVvof-NxX-1dJMyZwHd8phcsZC/view?usp=sharing)
 
-## Team Member
-* Mr. Vadiraja Acharya, Asst. Prof, Dept of CSE, PESU
-  * Internship
-    * D G Harshith, 7th SEM, ECE, PESU
+## Done By:
+* D G Harshith, 7th SEM, ECE, PESU
