@@ -19,8 +19,6 @@ cd ..
 catkin_make
 
 rosdep install --from-paths src --ignore-src -r -y
-
-
 ```
 If catkin_make shows error, install the missing dependenices using the rosdep command.  
 
@@ -134,7 +132,6 @@ rosrun rosserial_python serial_node.py /dev/ttyACM0
 roslaunch rplidar_ros view_rplidar.launch
 
 roslaunch differential_drive tf_controller.launch
-
 ```
 ### Main Laptop 💻
 ```
@@ -143,7 +140,6 @@ roscore
 roslaunch navbot_navigation move_base.launch
 
 rviz
-
 ```
 
 * After running Rviz open the Navbot.rviz configuration from the Rviz folder.
