@@ -1,6 +1,6 @@
 # ROS Delivery Robot With Autonomous Navigation
 
-## The Robot Harware Setup 🔧
+## The Robot Hardware Setup 🔧
 
 |![pic1](data/robot1.png)|![pic2](data/robot2.jpg)|
 | :-----: | :-: |
